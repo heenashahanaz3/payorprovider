@@ -1,0 +1,5 @@
+openai
+pdf2image
+azure-ai-formrecognizer
+azure-core
+pillow
